@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-This repo includes EDA done on some datasets.
+This repo includes data analysis done on some datasets.
